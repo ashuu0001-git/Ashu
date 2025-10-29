@@ -48,7 +48,7 @@ https://etherscan.io/address/0x55D2e8369Fabd459c93ea267Ba702CcE157B3f55
 pragma solidity ^0.8.0;
 
 /*
-   XYZ Daily Check-In Smart Contract
+    Daily Check-In Smart Contract
    ---------------------------------
    - Users can check in once per day (based on block timestamp)
    - The contract stores when each wallet last checked in
